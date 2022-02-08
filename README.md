@@ -1,4 +1,4 @@
-# Hola-mundo
+# Hola Mundo
 Mi primer repositorio prueba
 
 Autor: Saul
